@@ -7,5 +7,6 @@
   "email": "info@nhatquan.vn",
   "address": "10 Đường số 18A, KP.5, P. Bình Trưng, TP.HCM",
   "website": "nhatquan.vn",
-  "baseUrl": "https://nhatquan.vn"
+  "baseUrl": "https://nhatquan.vn",
+  "web3formsKey": "YOUR_WEB3FORMS_ACCESS_KEY"
 }

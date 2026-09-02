@@ -43,7 +43,12 @@ keywords: liên hệ WAGNER Việt Nam, liên hệ Nhất Quán, đại lý WAGN
       <div class="contact-form-card">
         <h2>Gửi yêu cầu tư vấn</h2>
         <p>Điền thông tin bên dưới, {{ site.companyShort }} sẽ liên hệ lại để tư vấn sản phẩm và báo giá phù hợp.</p>
-        <form action="mailto:{{ site.email }}" method="post" enctype="text/plain">
+        <form id="contact-form" action="https://api.web3forms.com/submit" method="POST">
+          <input type="hidden" name="access_key" value="{{ site.web3formsKey }}">
+          <input type="hidden" name="subject" value="Yêu cầu tư vấn mới từ website WAGNER - {{ site.companyShort }}">
+          <input type="hidden" name="from_name" value="Website WAGNER - {{ site.companyShort }}">
+          <input type="checkbox" name="botcheck" class="hp-field" style="display:none" tabindex="-1" autocomplete="off">
+
           <div class="form-group">
             <label for="cf-name">Họ và tên</label>
             <input type="text" id="cf-name" name="ho_ten" placeholder="Nguyễn Văn A" required>
@@ -74,6 +79,7 @@ keywords: liên hệ WAGNER Việt Nam, liên hệ Nhất Quán, đại lý WAGN
             <label for="cf-message">Nội dung cần tư vấn</label>
             <textarea id="cf-message" name="noi_dung" placeholder="Mô tả nhu cầu, model thiết bị hiện có, quy mô nhà xưởng..."></textarea>
           </div>
+          <div id="cf-status" class="form-status" hidden></div>
           <button type="submit" class="btn btn-primary">Gửi yêu cầu →</button>
         </form>
       </div>

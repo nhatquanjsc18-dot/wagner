@@ -39,7 +39,63 @@ function initSmoothAnchors() {
   });
 }
 
+/**
+ * Gửi form liên hệ qua Web3Forms bằng AJAX (không rời trang), hiện thông báo kết quả.
+ * Đăng ký access key miễn phí tại https://web3forms.com rồi điền vào src/_data/site.json (web3formsKey).
+ */
+function initContactForm() {
+  const form = document.getElementById("contact-form");
+  if (!form) return;
+
+  const statusBox = document.getElementById("cf-status");
+  const submitBtn = form.querySelector('button[type="submit"]');
+
+  function showStatus(message, isError) {
+    statusBox.hidden = false;
+    statusBox.textContent = message;
+    statusBox.className = "form-status " + (isError ? "form-status-error" : "form-status-success");
+  }
+
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+
+    if (form.querySelector('input[name="botcheck"]').checked) return; // spam bot
+
+    const accessKey = form.querySelector('input[name="access_key"]').value;
+    if (!accessKey || accessKey === "YOUR_WEB3FORMS_ACCESS_KEY") {
+      showStatus("Form chưa được cấu hình access key. Vui lòng liên hệ qua hotline/email bên trên.", true);
+      return;
+    }
+
+    const originalLabel = submitBtn.textContent;
+    submitBtn.disabled = true;
+    submitBtn.textContent = "Đang gửi...";
+
+    try {
+      const res = await fetch(form.action, {
+        method: "POST",
+        headers: { Accept: "application/json" },
+        body: new FormData(form),
+      });
+      const data = await res.json();
+
+      if (data.success) {
+        showStatus("Cảm ơn bạn! Yêu cầu đã được gửi, đội ngũ tư vấn sẽ liên hệ lại sớm nhất.", false);
+        form.reset();
+      } else {
+        showStatus("Gửi yêu cầu chưa thành công, vui lòng thử lại hoặc gọi hotline.", true);
+      }
+    } catch (err) {
+      showStatus("Không thể kết nối, vui lòng kiểm tra mạng và thử lại hoặc gọi hotline.", true);
+    } finally {
+      submitBtn.disabled = false;
+      submitBtn.textContent = originalLabel;
+    }
+  });
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   initProductFilters();
   initSmoothAnchors();
+  initContactForm();
 });
