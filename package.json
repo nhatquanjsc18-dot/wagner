@@ -1,0 +1,15 @@
+{
+  "name": "wagner-nhatquan",
+  "version": "1.0.0",
+  "description": "Website giới thiệu sản phẩm thiết bị sơn công nghiệp WAGNER - phân phối bởi Công ty CP Công nghiệp Nhất Quán",
+  "private": true,
+  "scripts": {
+    "dev": "eleventy --serve --port=8090",
+    "build": "eleventy",
+    "clean": "rimraf dist"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "rimraf": "^6.0.1"
+  }
+}

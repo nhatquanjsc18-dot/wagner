@@ -1,0 +1,208 @@
+[
+  {
+    "slug": "sprint-2-aps",
+    "sku": "Sprint 2 APS",
+    "name": "WAGNER® Sprint 2 APS",
+    "category": "powder",
+    "categoryLabel": "Sơn tĩnh điện bột",
+    "subCat": "auto-set",
+    "subCatLabel": "Bộ sơn tự động",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/9/c/csm_WAGNER_Sprint2-APS_powder-set_WA24013INTPIC01_101423_5c821105f7.jpg",
+    "shortDesc": "Bộ cấp bột tự động tích hợp điều khiển trên một xe đẩy, phù hợp dây chuyền phun tự động công suất cao."
+  },
+  {
+    "slug": "sprint-2-b",
+    "sku": "Sprint 2 B",
+    "name": "WAGNER® Sprint 2 B",
+    "category": "powder",
+    "categoryLabel": "Sơn tĩnh điện bột",
+    "subCat": "manual-gun",
+    "subCatLabel": "Súng thủ công",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/6/5/csm_WAGNER_Sprint2_Box_dynR_ProductGroup_98038_9b82dfce49.jpg",
+    "shortDesc": "Bộ điều khiển sơn bột thủ công nhỏ gọn, thao tác đơn giản, phù hợp xưởng sơn quy mô vừa."
+  },
+  {
+    "slug": "pea-x1-spraypack-automatic",
+    "sku": "PEA-X1",
+    "name": "WAGNER® PEA-X1 Spraypack Automatic",
+    "category": "powder",
+    "categoryLabel": "Sơn tĩnh điện bột",
+    "subCat": "auto-gun",
+    "subCatLabel": "Súng tự động",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/5/e/csm_PIC_EQU_Spraypack_PEA-X1_ProductGroup_88792_cdf5db3a40.jpg",
+    "shortDesc": "Bộ súng phun tự động thế hệ mới, thiết kế module hóa, dễ mở rộng phụ kiện theo nhu cầu sản xuất."
+  },
+  {
+    "slug": "per-x1-corona-robot-guns",
+    "sku": "PER-X1",
+    "name": "WAGNER® PER-X1 Corona Robot Guns",
+    "category": "powder",
+    "categoryLabel": "Sơn tĩnh điện bột",
+    "subCat": "robot",
+    "subCatLabel": "Robot phun",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/1/e/csm_PIC_EQU_PER-X1_Corona_left_mit_RedDot-Logo_90020_debba41df6.jpg",
+    "shortDesc": "Súng phun gắn robot công nghệ Corona, đạt giải thiết kế Red Dot, tối ưu cho dây chuyền tự động hóa cao."
+  },
+  {
+    "slug": "pem-t3-tribo-manual-guns",
+    "sku": "PEM-T3",
+    "name": "WAGNER® PEM-T3 Tribo Manual Guns",
+    "category": "powder",
+    "categoryLabel": "Sơn tĩnh điện bột",
+    "subCat": "manual-gun",
+    "subCatLabel": "Súng thủ công",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/e/6/csm_PIC_EQU_0351019_PEM_T3_66820_c93f37ea14.jpg",
+    "shortDesc": "Súng phun thủ công công nghệ Tribo, phù hợp các loại bột khó tích điện Corona, cầm nhẹ, ít mỏi tay."
+  },
+  {
+    "slug": "pea-t3-tribo-automatic-guns",
+    "sku": "PEA-T3",
+    "name": "WAGNER® PEA-T3 Tribo Automatic Guns",
+    "category": "powder",
+    "categoryLabel": "Sơn tĩnh điện bột",
+    "subCat": "auto-gun",
+    "subCatLabel": "Súng tự động",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/3/8/csm_PIC_EQU_0351031_PEA_T3XL_neu_66819_9b73d74896.jpg",
+    "shortDesc": "Súng phun tự động công nghệ Tribo, hiệu suất phủ ổn định cho các dây chuyền sản lượng lớn."
+  },
+  {
+    "slug": "sprint-2-expert-t",
+    "sku": "Sprint 2 Expert T",
+    "name": "WAGNER® Sprint 2 Expert T",
+    "category": "powder",
+    "categoryLabel": "Sơn tĩnh điện bột",
+    "subCat": "table-set",
+    "subCatLabel": "Bộ sơn bàn",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/a/1/csm_WAGNER_Sprint2Expert-T_3l-table-set_WA24013INTPIC01_102579_943c9b9b8b.jpg",
+    "shortDesc": "Bộ bàn sơn 3 lít dòng Expert, tích hợp sẵn phễu chứa, phù hợp thử nghiệm và sản xuất nhỏ."
+  },
+  {
+    "slug": "sprint-2-expert-cup-gun-case-set",
+    "sku": "Sprint 2 Expert CG",
+    "name": "WAGNER® Sprint 2 Expert CG",
+    "category": "powder",
+    "categoryLabel": "Sơn tĩnh điện bột",
+    "subCat": "cup-gun",
+    "subCatLabel": "Súng cốc",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/a/7/csm_WAGNER_Sprint2Expert-CG_dynL_ID0966_WA24013USPIC01_101430_2eb50aec6a.jpg",
+    "shortDesc": "Bộ súng cốc dạng vali di động, tiện mang theo bảo trì hoặc sửa lỗi bề mặt tại chỗ."
+  },
+  {
+    "slug": "gm-4100ac",
+    "sku": "GM 4100AC",
+    "name": "WAGNER® GM 4100AC",
+    "category": "liquid",
+    "categoryLabel": "Sơn tĩnh điện ướt",
+    "subCat": "manual-gun",
+    "subCatLabel": "Súng phun cầm tay",
+    "img": "https://cdn.wagner-group.com/fileadmin/pim/1200x1200/PIC_EQU_GM4100AC-250bar-blueAC_31052.jpg",
+    "shortDesc": "Súng phun tĩnh điện khí nén cầm tay áp suất 250bar, thiết kế nhẹ, phun sương mịn cho lớp sơn đều màu.",
+    "lead": "WAGNER® GM 4100AC là súng phun sơn AirCoat cầm tay cỡ nhỏ, được thiết kế riêng cho những người dùng cần độ chính xác cao và làm việc trong thời gian dài mà không mỏi tay. Với hệ thống dẫn khí đặc trưng của WAGNER, súng cho khả năng tán sương tối ưu ở mọi ứng dụng, giảm áp lực vật liệu để tạo ra vệt phun mềm mại, hạn chế văng sơn.",
+    "features": [
+      ["💨", "Tán sương tối ưu", "Hệ thống dẫn khí WAGNER cho vệt phun mịn, đều màu ở mọi loại vật liệu."],
+      ["🛡️", "Độ bền cao", "Thân súng rèn nguyên khối, chịu được điều kiện sản xuất khắc nghiệt."],
+      ["🔧", "Dễ tùy chỉnh", "Chỉ cần thay air cap để chuyển đổi giữa sơn gốc nước và gốc dung môi."],
+      ["✋", "Thiết kế công thái học", "2 cỡ súng cho các cỡ tay khác nhau, lực bóp cò nhẹ, làm việc bền sức."],
+      ["⚖️", "Trọng lượng nhẹ", "Chỉ 600g, thao tác linh hoạt suốt ca làm việc dài."],
+      ["🔊", "Vận hành êm", "Mức ồn tối đa chỉ 82 dB(A), thân thiện với người vận hành."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "GM 4100AC",
+      "Kỹ thuật phun": "AirCoat",
+      "Vật liệu sử dụng được": "Sơn gốc nước (Water-borne)",
+      "Chất liệu tiếp xúc vật liệu": "Inox, Carbide, PA (polyamide), POM (polyacetal), PTFE",
+      "Trọng lượng": "600 g",
+      "Đầu nối khí nén": "M G 1/4\"",
+      "Áp suất vật liệu tối đa": "250 bar",
+      "Mức ồn tối đa": "82 dB(A)",
+      "Cỡ béc phun (Nozzle size)": "0.007 – 0.023\"",
+      "Nhiệt độ hoạt động": "5 – 40 °C"
+    },
+    "applications": [
+      "Sơn phủ bề mặt kim loại (Metal coating)",
+      "Sơn phủ bề mặt nhựa (Plastic coating)",
+      "Sơn phủ bề mặt gỗ (Wood coating)",
+      "Xưởng sơn cần thao tác liên tục, đòi hỏi độ chính xác và bền sức khi cầm lâu"
+    ],
+    "why": "GM 4100AC là lựa chọn phù hợp cho các xưởng cần một khẩu súng AirCoat nhỏ gọn nhưng vẫn đảm bảo chất lượng tán sương ổn định — từ sơn gỗ nội thất, sơn kim loại đến sơn nhựa, đặc biệt thích hợp khi thợ sơn phải thao tác trong thời gian dài mà vẫn cần độ chính xác cao.",
+    "metaDescription": "WAGNER® GM 4100AC - súng phun sơn AirCoat cầm tay, nhẹ, êm, phun sương mịn, áp suất tối đa 250 bar. Hàng chính hãng, bảo hành, giao hàng toàn quốc từ Nhất Quán.",
+    "metaKeywords": "GM 4100AC, WAGNER GM 4100AC, súng phun sơn AirCoat GM 4100AC, súng phun sơn Wagner chính hãng"
+  },
+  {
+    "slug": "gm-4700ac",
+    "sku": "GM 4700AC",
+    "name": "WAGNER® GM 4700AC",
+    "category": "liquid",
+    "categoryLabel": "Sơn tĩnh điện ướt",
+    "subCat": "manual-gun",
+    "subCatLabel": "Súng phun cầm tay",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/5/f/csm_PIC_EQU_GM4700AC-250bar-redAC_31058_7dd87089d4.jpg",
+    "shortDesc": "Phiên bản nâng cấp lưu lượng lớn hơn, phù hợp phun các bề mặt kim loại và gỗ diện tích rộng."
+  },
+  {
+    "slug": "topfinish-robotbell2-bell2s",
+    "sku": "RobotBell 2 / Bell 2S",
+    "name": "WAGNER® TOPFINISH RobotBell 2 / Bell 2S",
+    "category": "liquid",
+    "categoryLabel": "Sơn tĩnh điện ướt",
+    "subCat": "robot-bell",
+    "subCatLabel": "Robot phun Bell",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/a/0/csm__106219_635f151dc6.jpg",
+    "shortDesc": "Đầu phun bell tốc độ cao gắn robot, tạo lớp phủ tĩnh điện chất lượng cao cho ngành ô tô."
+  },
+  {
+    "slug": "topfinish-gm-1030g",
+    "sku": "GM 1030G",
+    "name": "WAGNER® TOPFINISH GM 1030G",
+    "category": "liquid",
+    "categoryLabel": "Sơn tĩnh điện ướt",
+    "subCat": "topfinish",
+    "subCatLabel": "Hệ TOPFINISH",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/1/d/csm_PIC_EQU_GM1030G_left_002_73810_9667a38c41.jpg",
+    "shortDesc": "Súng phun tĩnh điện chuyên dụng cho sơn gốc dung môi, hiệu suất bám dính cao trên nhiều chất liệu."
+  },
+  {
+    "slug": "topfinish-ga-1020-1030",
+    "sku": "GA 1020/1030",
+    "name": "WAGNER® TOPFINISH GA 1020/1030",
+    "category": "liquid",
+    "categoryLabel": "Sơn tĩnh điện ướt",
+    "subCat": "auto-gun",
+    "subCatLabel": "Súng tự động",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/f/5/csm_PIC_EQU_GA1030IC_left_67618_4219a40868.jpg",
+    "shortDesc": "Súng phun tự động gắn cố định trên dây chuyền, phù hợp phun đồng loạt sản phẩm hàng loạt."
+  },
+  {
+    "slug": "pilot-trend-fb",
+    "sku": "Pilot Trend FB",
+    "name": "WAGNER® Pilot Trend FB",
+    "category": "liquid",
+    "categoryLabel": "Sơn tĩnh điện ướt",
+    "subCat": "pilot",
+    "subCatLabel": "Dòng Pilot",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/e/6/csm_PIC_EQU_Pilot_Trend_FB_Gruppenbild_94863_590d5846ad.jpg",
+    "shortDesc": "Bộ điều khiển cấp liệu & áp suất cho súng phun, hỗ trợ vận hành ổn định theo mẻ sản xuất."
+  },
+  {
+    "slug": "supracoat-ga-3000sc",
+    "sku": "GA3000SC",
+    "name": "WAGNER® SupraCoat GA3000SC",
+    "category": "liquid",
+    "categoryLabel": "Sơn tĩnh điện ướt",
+    "subCat": "auto-gun",
+    "subCatLabel": "Súng tự động",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/0/d/csm_PIC_EQU_GA3000SCIC-gold_30980_3ecc53bed9.jpg",
+    "shortDesc": "Súng phun công nghệ SupraCoat, tối ưu hiệu suất chuyển giao sơn, giảm thất thoát vật liệu."
+  },
+  {
+    "slug": "vector-grip",
+    "sku": "Vector Grip 4-finger",
+    "name": "WAGNER® Vector Grip 4-finger",
+    "category": "liquid",
+    "categoryLabel": "Sơn tĩnh điện ướt",
+    "subCat": "accessory",
+    "subCatLabel": "Phụ kiện gá kẹp",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/1/9/csm_WAGNER_Vector-Grip_4-finger_dynL_sample-image_295x295_101055_11ca82911c.jpg",
+    "shortDesc": "Bộ gá kẹp linh hoạt 4 chấu, hỗ trợ định vị chi tiết ổn định trong dây chuyền sơn tự động."
+  }
+]

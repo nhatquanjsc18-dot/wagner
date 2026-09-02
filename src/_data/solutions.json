@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Automotive",
+    "desc": "Linh kiện nhựa, kim loại nội & ngoại thất xe",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/b/1/csm_Segmente_Automotive_neu_ce19cc89e0.jpg"
+  },
+  {
+    "name": "Gỗ & MDF",
+    "desc": "Nội thất, cửa gỗ, ván MDF trang trí",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/6/a/csm_Segmente_Holz_neu_8ab402ecbd.jpg"
+  },
+  {
+    "name": "Sơn chống ăn mòn",
+    "desc": "Bồn bể, cầu đường, đường ống, điện gió",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/f/e/csm_Segmente_Protective_neu_0a92a2e3c5.jpg"
+  },
+  {
+    "name": "Xe tải & công trình",
+    "desc": "Xe tải, tàu hỏa, máy nông nghiệp, xây dựng",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/7/b/csm_Segmente_ACE_neu_4ea5028484.jpg"
+  },
+  {
+    "name": "Thiết bị gia dụng",
+    "desc": "Máy giặt, tủ lạnh, bình nóng lạnh, lò nướng",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/7/5/csm_Segmente_Haushaltsgeraete_neu_d6369146c6.jpg"
+  },
+  {
+    "name": "Men sứ (Enamel)",
+    "desc": "Thiết bị bếp, bồn tắm, phụ kiện tráng men",
+    "img": "https://cdn.wagner-group.com/fileadmin/_processed_/e/0/csm_WAGNER_Enamel_Teaser_1920x700_32582dc8a7.jpg"
+  }
+]

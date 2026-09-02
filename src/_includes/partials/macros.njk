@@ -1,0 +1,36 @@
+{% macro productSection(id, tag, title, desc, category, products, chips) %}
+<section id="{{ id }}">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <span class="tag">{{ tag }}</span>
+        <h2>{{ title }}</h2>
+        <p>{{ desc }}</p>
+      </div>
+      <a class="link-more" href="#">Xem toàn bộ danh mục →</a>
+    </div>
+    <div class="filter-row">
+      <span class="chip active" data-filter="all">Tất cả</span>
+      {% for c in chips %}
+      <span class="chip" data-filter="{{ c.key }}">{{ c.label }}</span>
+      {% endfor %}
+    </div>
+    <div class="product-grid">
+      {% for p in products %}
+      <div class="product-card" data-subcat="{{ p.subCat }}">
+        <div class="thumb"><img src="{{ p.img }}" alt="{{ p.name }}" loading="lazy"></div>
+        <div class="info">
+          <span class="badge">{{ p.subCatLabel }}</span>
+          <h4>{{ p.name }}</h4>
+          <p>{{ p.shortDesc }}</p>
+          <div class="row-bottom">
+            <span class="price">Liên hệ báo giá</span>
+            <a class="view" href="/san-pham/{{ p.slug }}/">Chi tiết</a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endmacro %}

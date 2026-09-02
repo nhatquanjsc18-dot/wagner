@@ -1,0 +1,110 @@
+---
+layout: layouts/base.njk
+title: WAGNER Việt Nam | Thiết bị sơn tĩnh điện & sơn ướt công nghiệp
+description: Đại lý chính hãng WAGNER tại Việt Nam - phân phối súng phun sơn tĩnh điện bột, sơn ướt, hệ thống sơn tự động. Bảo hành theo tiêu chuẩn nhà sản xuất, giao hàng toàn quốc.
+keywords: WAGNER Việt Nam, súng phun sơn tĩnh điện, sơn tĩnh điện bột, sơn tĩnh điện ướt, thiết bị sơn công nghiệp
+---
+{% import "partials/macros.njk" as m %}
+
+<section class="hero">
+  <div class="container">
+    <div>
+      <div class="eyebrow">Thiết bị sơn công nghiệp chính hãng Đức</div>
+      <h1>Giải pháp sơn tĩnh điện &amp; sơn ướt cho nhà máy của bạn</h1>
+      <p>Phân phối chính hãng súng phun, buồng sơn, hệ thống cấp bột và thiết bị sơn ướt tự động WAGNER — thương hiệu Đức hơn 65 năm kinh nghiệm, đang vận hành tại hơn 30.000 nhà máy trên toàn cầu.</p>
+      <div class="hero-actions">
+        <a href="#powder" class="btn btn-primary">Xem sản phẩm sơn bột</a>
+        <a href="#liquid" class="btn btn-outline" style="border-color:#fff;color:#fff;">Xem sản phẩm sơn ướt</a>
+      </div>
+      <div class="hero-stats">
+        <div><strong>65+</strong><span>năm phát triển công nghệ sơn</span></div>
+        <div><strong>30.000+</strong><span>hệ thống đang vận hành</span></div>
+        <div><strong>6</strong><span>ngành ứng dụng trọng điểm</span></div>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <img src="/powder-gun.jpg" alt="Súng phun sơn tĩnh điện bột WAGNER đang thao tác">
+    </div>
+  </div>
+</section>
+
+<section id="solutions">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <span class="tag">Giải pháp theo ngành</span>
+        <h2>Ứng dụng cho từng lĩnh vực sản xuất</h2>
+        <p>WAGNER cung cấp giải pháp sơn phủ tối ưu riêng cho từng ngành, từ linh kiện ô tô đến kết cấu chống ăn mòn quy mô lớn.</p>
+      </div>
+    </div>
+    <div class="solution-grid">
+      {% for s in solutions %}
+      <a class="solution-card" href="#">
+        <img src="{{ s.img }}" alt="{{ s.name }}">
+        <div class="overlay"><h4>{{ s.name }}</h4><span>{{ s.desc }}</span></div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{{ m.productSection(
+  "powder",
+  "Sơn tĩnh điện bột",
+  "Thiết bị ứng dụng sơn bột",
+  "Súng phun thủ công & tự động, hỗ trợ cả công nghệ tích điện Corona và Tribo — thiết kế công thái học, hiệu suất phủ cao.",
+  "powder",
+  products | byCategory("powder"),
+  products | uniqueSubcats("powder")
+) }}
+
+{{ m.productSection(
+  "liquid",
+  "Sơn tĩnh điện ướt",
+  "Thiết bị ứng dụng sơn ướt",
+  "Súng phun tĩnh điện dạng khí nén và airless, hệ thống TOPFINISH tự động, robot phun sơn Bell cho lớp phủ mịn đồng đều.",
+  "liquid",
+  products | byCategory("liquid"),
+  products | uniqueSubcats("liquid")
+) }}
+
+<section class="section-alt">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <span class="tag">Vì sao chọn chúng tôi</span>
+        <h2>Đại lý chính hãng, hỗ trợ kỹ thuật tận nơi</h2>
+      </div>
+    </div>
+    <div class="why-grid">
+      <div class="why-card">
+        <div class="ic">✓</div>
+        <h4>Hàng chính hãng Đức</h4>
+        <p>Cam kết cung cấp hàng chính hãng WAGNER và chế độ bảo hành theo tiêu chuẩn nhà sản xuất.</p>
+      </div>
+      <div class="why-card">
+        <div class="ic">⚙</div>
+        <h4>Tư vấn kỹ thuật</h4>
+        <p>Đội ngũ kỹ sư khảo sát dây chuyền thực tế, đề xuất cấu hình thiết bị phù hợp công suất nhà máy.</p>
+      </div>
+      <div class="why-card">
+        <div class="ic">🛠</div>
+        <h4>Bảo trì &amp; phụ tùng</h4>
+        <p>Sẵn kho phụ tùng thay thế, hỗ trợ bảo trì định kỳ giúp giảm thời gian dừng máy.</p>
+      </div>
+      <div class="why-card">
+        <div class="ic">🚚</div>
+        <h4>Giao hàng toàn quốc</h4>
+        <p>Lắp đặt, hướng dẫn vận hành tại nhà máy trên khắp các tỉnh thành.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band" id="contact">
+  <div class="container">
+    <h2>Cần tư vấn giải pháp sơn cho nhà máy của bạn?</h2>
+    <p>Để lại thông tin, đội ngũ kỹ thuật WAGNER Việt Nam sẽ liên hệ khảo sát và báo giá trong 24h.</p>
+    <a href="#" class="btn btn-primary">Yêu cầu tư vấn ngay</a>
+  </div>
+</section>
