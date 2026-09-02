@@ -261,7 +261,12 @@ footer a:hover { color: var(--wagner-yellow); }
   .footer-col-company { display: none; }
   .footer-grid { grid-template-columns: 1fr 1fr; }
 
-  .related-grid { grid-template-columns: 1fr; }
+  .related-grid { grid-template-columns: 1fr 1fr; gap: 12px; }
+  .related-card .thumb { height: 100px; }
+  .related-card .thumb img { max-height: 80px; }
+  .related-card .info { padding: 10px; }
+  .related-card h4 { font-size: 13px; }
+  .related-card p { display: none; }
 
   /* Card sản phẩm: chỉ hiện tên + mã sản phẩm để rút ngắn chiều dài trang */
   .product-card .thumb { height: 130px; }
