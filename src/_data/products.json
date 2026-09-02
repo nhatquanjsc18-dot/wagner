@@ -8,7 +8,27 @@
     "subCat": "auto-set",
     "subCatLabel": "Bộ sơn tự động",
     "img": "https://cdn.wagner-group.com/fileadmin/_processed_/9/c/csm_WAGNER_Sprint2-APS_powder-set_WA24013INTPIC01_101423_5c821105f7.jpg",
-    "shortDesc": "Bộ cấp bột tự động tích hợp điều khiển trên một xe đẩy, phù hợp dây chuyền phun tự động công suất cao."
+    "shortDesc": "Bộ cấp bột tự động tích hợp điều khiển trên một xe đẩy, phù hợp dây chuyền phun tự động công suất cao.",
+    "lead": "WAGNER® Sprint 2 APS là bộ sơn tĩnh điện bột tự động hoàn chỉnh, gồm súng phun sơn tự động PEA-X1, bộ điều khiển WACON Sprint 2 X và injector PI-F1. Đây là thế hệ mới của dòng Sprint 2, kế thừa các thành phần đã được kiểm chứng thực tế kết hợp nhiều tính năng hỗ trợ thông minh mới, giúp đạt kết quả phủ bột xuất sắc và bề mặt chất lượng cao.",
+    "features": [
+      ["⚡", "Hiệu suất phủ vượt trội", "Súng phun sơn tự động PEA-X1 cho hiệu suất ứng dụng cao, điều khiển trực quan qua WACON Sprint 2 X, chuẩn bị bột tối ưu, kết quả ổn định và lặp lại."],
+      ["✨", "Nâng cao chất lượng bề mặt chỉ với một nút bấm", "Tính năng DSO (Digital Surface Optimizer) giúp giảm hiện tượng vỏ cam, tụ bột ở cạnh hay bắn ngược, phù hợp cả chi tiết phức tạp và loại bột khó tính."],
+      ["🎯", "Phủ tốt cả các góc khuất", "DSO còn giúp bột thấm sâu tốt vào các rãnh, hốc khuất ngay cả khi súng đặt gần chi tiết."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "Sprint 2 APS",
+      "Thành phần bộ set": "Súng phun sơn tự động PEA-X1, bộ điều khiển WACON Sprint 2 X, injector PI-F1",
+      "Kỹ thuật phun": "Corona, phun tự động",
+      "Vật liệu sử dụng được": "Sơn bột hữu cơ (Organic powder coatings)"
+    },
+    "applications": [
+      "Dây chuyền sơn tĩnh điện tự động công suất cao",
+      "Sản phẩm kim loại có hình dạng phức tạp, nhiều góc khuất",
+      "Xưởng cần đồng bộ chất lượng bề mặt giữa các mẻ sản xuất"
+    ],
+    "why": "Sprint 2 APS phù hợp cho các nhà máy cần một bộ sơn tự động trọn gói, dễ tích hợp vào dây chuyền, vừa đảm bảo hiệu suất phun cao vừa giữ chất lượng bề mặt đồng đều nhờ công nghệ DSO độc quyền của WAGNER.",
+    "metaDescription": "WAGNER® Sprint 2 APS - bộ sơn tĩnh điện bột tự động trọn gói gồm súng PEA-X1, bộ điều khiển WACON Sprint 2 X. Công nghệ DSO, hàng chính hãng, bảo hành, giao hàng toàn quốc.",
+    "metaKeywords": "Sprint 2 APS, WAGNER Sprint 2 APS, bộ sơn tĩnh điện bột tự động Sprint 2 APS"
   },
   {
     "slug": "sprint-2-b",
@@ -19,7 +39,32 @@
     "subCat": "manual-gun",
     "subCatLabel": "Súng phun sơn thủ công",
     "img": "https://cdn.wagner-group.com/fileadmin/_processed_/6/5/csm_WAGNER_Sprint2_Box_dynR_ProductGroup_98038_9b82dfce49.jpg",
-    "shortDesc": "Bộ điều khiển sơn bột thủ công nhỏ gọn, thao tác đơn giản, phù hợp xưởng sơn quy mô vừa."
+    "shortDesc": "Bộ điều khiển sơn bột thủ công nhỏ gọn, thao tác đơn giản, phù hợp xưởng sơn quy mô vừa.",
+    "lead": "WAGNER® Sprint 2 B là bộ sơn tĩnh điện bột thủ công cấp bột trực tiếp từ thùng nguyên bản (hoặc bình chứa 60 lít tùy chọn). Kết hợp cùng súng phun sơn thủ công PEM-X1, hệ thống mang lại kết quả phủ bột xuất sắc và bề mặt chất lượng cao nhờ các tính năng hỗ trợ thông minh của dòng Sprint 2 thế hệ mới.",
+    "features": [
+      ["⚙️", "Hiệu suất phủ vượt trội", "Súng phun sơn thủ công PEM-X1 kết hợp bộ điều khiển WACON Sprint 2 XE trực quan, chuẩn bị bột tối ưu, cho kết quả ổn định và lặp lại."],
+      ["✨", "Đạt kết quả hoàn hảo nhanh chóng", "Injector Quick-Link và tính năng DSO (Digital Surface Optimizer) giúp tăng hiệu quả phủ và rút ngắn thời gian đổi màu, tạo đám mây bột mịn hơn."],
+      ["🔧", "Giải pháp linh hoạt cho mọi ứng dụng", "Nhiều tùy chọn cấu hình, bộ set và phụ kiện đáp ứng đa dạng nhu cầu sơn thủ công."],
+      ["🛠️", "Bền bỉ, dễ di chuyển", "Xe đẩy thiết bị chắc chắn, linh hoạt kèm bàn rung điện giúp thao tác an toàn kể cả trong môi trường làm việc chật hẹp, khắc nghiệt."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "Sprint 2 B",
+      "Kỹ thuật phun": "Corona, Tribo, phun thủ công",
+      "Vật liệu sử dụng được": "Sơn bột hữu cơ, sơn bột Tribo hữu cơ, sơn bột kim loại (Metallic), sơn bột Acrylic",
+      "Kích thước": "738 x 493 x 1.147 mm",
+      "Trọng lượng": "40 kg",
+      "Áp suất khí đầu vào": "6-8 bar",
+      "Cấp độ bảo vệ": "IP 64",
+      "Lưu lượng bột tối đa/súng": "450 g/phút"
+    },
+    "applications": [
+      "Xưởng sơn tĩnh điện quy mô vừa cần hệ thống thủ công linh hoạt",
+      "Đổi màu thường xuyên nhờ injector Quick-Link tháo lắp nhanh",
+      "Sản xuất công nghiệp cần bàn rung ổn định, thao tác an toàn"
+    ],
+    "why": "Sprint 2 B phù hợp cho các xưởng sơn tĩnh điện bột cần một hệ thống thủ công bền bỉ, dễ di chuyển, đổi màu nhanh mà vẫn đảm bảo chất lượng bề mặt đồng đều nhờ công nghệ DSO độc quyền của WAGNER.",
+    "metaDescription": "WAGNER® Sprint 2 B - bộ điều khiển sơn tĩnh điện bột thủ công, cấp bột từ thùng nguyên bản, công nghệ DSO cho bề mặt hoàn hảo. Chính hãng, bảo hành, giao hàng toàn quốc.",
+    "metaKeywords": "Sprint 2 B, WAGNER Sprint 2 B, bộ sơn tĩnh điện bột thủ công Sprint 2 B"
   },
   {
     "slug": "pea-x1-spraypack-automatic",
@@ -30,7 +75,33 @@
     "subCat": "auto-gun",
     "subCatLabel": "Súng phun sơn tự động",
     "img": "https://cdn.wagner-group.com/fileadmin/_processed_/5/e/csm_PIC_EQU_Spraypack_PEA-X1_ProductGroup_88792_cdf5db3a40.jpg",
-    "shortDesc": "Bộ súng phun sơn tự động thế hệ mới, thiết kế module hóa, dễ mở rộng phụ kiện theo nhu cầu sản xuất."
+    "shortDesc": "Bộ súng phun sơn tự động thế hệ mới, thiết kế module hóa, dễ mở rộng phụ kiện theo nhu cầu sản xuất.",
+    "lead": "WAGNER® PEA-X1 là súng phun sơn tự động công nghệ Corona, mang lại hiệu suất phủ cao nhất trong các hệ thống sơn tĩnh điện. Thiết kế module hóa cùng dải phụ kiện phong phú giúp súng đáp ứng rất nhiều kiểu ứng dụng khác nhau trên cùng một dây chuyền.",
+    "features": [
+      ["⚡", "Kết quả phủ xuất sắc", "Tầng cascade cao áp bền bỉ, công suất lớn đảm bảo hiệu suất ứng dụng cao."],
+      ["🎯", "Lớp phủ mỏng, đồng đều", "Hệ béc phun tối ưu cho lớp phủ mỏng và đều hơn, góp phần giảm tiêu hao bột."],
+      ["🔧", "Linh hoạt cho nhiều ứng dụng", "Dải phụ kiện phong phú cho phép tùy chỉnh theo từng yêu cầu phun cụ thể."],
+      ["🔁", "Tương thích cả họ súng X1", "Béc phun và phần lớn phụ kiện dùng chung được cho cả 3 dòng súng PEA-X1, PEM-X1 và PER-X1."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "PEA-X1",
+      "Khu vực ứng dụng": "Sơn kim loại, sơn gỗ, sơn mâm xe (Wheel coating)",
+      "Kỹ thuật phun": "Corona, phun tự động",
+      "Vật liệu sử dụng được": "Sơn bột hữu cơ (Organic powder coatings)",
+      "Kích thước": "440 x 48 x 66 mm",
+      "Trọng lượng": "545 g",
+      "Cấp độ bảo vệ": "IP 54",
+      "Cực tính": "Âm hoặc dương",
+      "Lưu lượng bột tối đa/súng": "450 g/phút"
+    },
+    "applications": [
+      "Dây chuyền sơn tĩnh điện tự động cho linh kiện kim loại",
+      "Sơn phủ mâm xe (wheel coating)",
+      "Xưởng sơn gỗ công nghiệp quy mô lớn"
+    ],
+    "why": "PEA-X1 phù hợp cho các dây chuyền sơn tự động cần súng phun bền bỉ, hiệu suất cao và dễ dàng mở rộng phụ kiện khi nhu cầu sản xuất thay đổi.",
+    "metaDescription": "WAGNER® PEA-X1 Spraypack Automatic - súng phun sơn tĩnh điện bột tự động công nghệ Corona, module hóa, hiệu suất cao. Chính hãng, bảo hành, giao hàng toàn quốc.",
+    "metaKeywords": "PEA-X1, WAGNER PEA-X1, súng phun sơn tự động PEA-X1 Spraypack"
   },
   {
     "slug": "per-x1-corona-robot-guns",
@@ -41,7 +112,33 @@
     "subCat": "robot",
     "subCatLabel": "Robot phun",
     "img": "https://cdn.wagner-group.com/fileadmin/_processed_/1/e/csm_PIC_EQU_PER-X1_Corona_left_mit_RedDot-Logo_90020_debba41df6.jpg",
-    "shortDesc": "Súng phun sơn gắn robot công nghệ Corona, đạt giải thiết kế Red Dot, tối ưu cho dây chuyền tự động hóa cao."
+    "shortDesc": "Súng phun sơn gắn robot công nghệ Corona, đạt giải thiết kế Red Dot, tối ưu cho dây chuyền tự động hóa cao.",
+    "lead": "WAGNER® PER-X1 là súng phun sơn tự động gắn robot công nghệ Corona, mang lại hiệu suất ứng dụng tối đa trong môi trường sản xuất tự động hóa bằng robot. Thiết kế module hóa cùng dải phụ kiện đa dạng giúp súng thích ứng với rất nhiều loại chi tiết và cách bố trí dây chuyền khác nhau.",
+    "features": [
+      ["⚡", "Kết quả phủ xuất sắc", "Tầng cascade cao áp bền bỉ, công suất lớn đảm bảo hiệu suất ứng dụng cao."],
+      ["🎯", "Lớp phủ mỏng, rất đồng đều", "Hệ béc phun tối ưu giúp đạt lớp phủ mỏng và đều hơn, góp phần giảm tiêu hao bột."],
+      ["🔧", "Linh hoạt cho nhiều ứng dụng", "Dải phụ kiện phong phú cho phép tùy chỉnh theo từng yêu cầu phun cụ thể của robot."],
+      ["🔁", "Tương thích cả họ súng X1", "Béc phun và phần lớn phụ kiện dùng chung được cho cả 3 dòng súng PEA-X1, PEM-X1 và PER-X1."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "PER-X1",
+      "Khu vực ứng dụng": "Sơn kim loại, sơn gỗ, sơn mâm xe (Wheel coating)",
+      "Kỹ thuật phun": "Corona, phun tự động",
+      "Vật liệu sử dụng được": "Sơn bột hữu cơ (Organic powder coatings)",
+      "Kích thước": "325 x 54 x 269 mm",
+      "Trọng lượng": "645 g",
+      "Cấp độ bảo vệ": "IP 54",
+      "Cực tính": "Âm hoặc dương",
+      "Lưu lượng bột tối đa/súng": "450 g/phút"
+    },
+    "applications": [
+      "Dây chuyền sơn tĩnh điện tự động hóa bằng robot",
+      "Sơn phủ mâm xe (wheel coating) sản lượng lớn",
+      "Linh kiện kim loại, gỗ hình dạng phức tạp cần robot thao tác chính xác"
+    ],
+    "why": "PER-X1 là lựa chọn hàng đầu cho các nhà máy đầu tư robot sơn tự động — thiết kế đạt giải Red Dot, hiệu suất phun cao và tương thích phụ kiện chung với cả họ súng X1 của WAGNER, giúp tối ưu chi phí vận hành lâu dài.",
+    "metaDescription": "WAGNER® PER-X1 Corona Robot Guns - súng phun sơn tĩnh điện bột gắn robot, đạt giải thiết kế Red Dot, hiệu suất cao. Chính hãng, bảo hành, giao hàng toàn quốc.",
+    "metaKeywords": "PER-X1, WAGNER PER-X1, súng phun sơn robot PER-X1 Corona"
   },
   {
     "slug": "pem-t3-tribo-manual-guns",
@@ -52,7 +149,27 @@
     "subCat": "manual-gun",
     "subCatLabel": "Súng phun sơn thủ công",
     "img": "https://cdn.wagner-group.com/fileadmin/_processed_/e/6/csm_PIC_EQU_0351019_PEM_T3_66820_c93f37ea14.jpg",
-    "shortDesc": "Súng phun sơn thủ công công nghệ Tribo, phù hợp các loại bột khó tích điện Corona, cầm nhẹ, ít mỏi tay."
+    "shortDesc": "Súng phun sơn thủ công công nghệ Tribo, phù hợp các loại bột khó tích điện Corona, cầm nhẹ, ít mỏi tay.",
+    "lead": "WAGNER® PEM-T3 là súng phun sơn thủ công dùng cho bột Tribo — loại bột khó tích điện bằng công nghệ Corona thông thường. Nhờ hệ thống nạp liệu hiệu quả, thiết kế công thái học và trọng lượng nhẹ, súng giúp thợ sơn thao tác nhẹ nhàng suốt ca làm việc.",
+    "features": [
+      ["🎯", "Kết quả phủ xuất sắc", "Hệ thống nạp liệu hiệu quả kết hợp thiết kế công thái học và trọng lượng nhẹ."],
+      ["🔧", "Dễ bảo trì", "Buồng tích điện có thể tháo rời giúp giảm đáng kể chi phí hao mòn theo thời gian."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "PEM-T3",
+      "Vật liệu sử dụng được": "Sơn bột Tribo hữu cơ (Organic Tribo powder coatings)",
+      "Cấp độ bảo vệ": "IP 54",
+      "Cực tính": "Dương (Positive)",
+      "Lưu lượng bột tối đa/súng": "300 g/phút"
+    },
+    "applications": [
+      "Phun các loại bột khó tích điện bằng công nghệ Corona",
+      "Xưởng sơn thủ công cần thao tác nhẹ nhàng, liên tục cả ca làm việc",
+      "Chi tiết kim loại yêu cầu độ bám bột ổn định"
+    ],
+    "why": "PEM-T3 là lựa chọn phù hợp khi xưởng của bạn cần xử lý những loại bột đặc thù khó tích điện Corona, đồng thời vẫn muốn một khẩu súng thủ công nhẹ, bền và dễ bảo trì.",
+    "metaDescription": "WAGNER® PEM-T3 Tribo Manual Guns - súng phun sơn thủ công công nghệ Tribo, nhẹ, dễ bảo trì. Hàng chính hãng, bảo hành, giao hàng toàn quốc từ Nhất Quán.",
+    "metaKeywords": "PEM-T3, WAGNER PEM-T3, súng phun sơn thủ công Tribo PEM-T3"
   },
   {
     "slug": "pea-t3-tribo-automatic-guns",
@@ -63,7 +180,27 @@
     "subCat": "auto-gun",
     "subCatLabel": "Súng phun sơn tự động",
     "img": "https://cdn.wagner-group.com/fileadmin/_processed_/3/8/csm_PIC_EQU_0351031_PEA_T3XL_neu_66819_9b73d74896.jpg",
-    "shortDesc": "Súng phun sơn tự động công nghệ Tribo, hiệu suất phủ ổn định cho các dây chuyền sản lượng lớn."
+    "shortDesc": "Súng phun sơn tự động công nghệ Tribo, hiệu suất phủ ổn định cho các dây chuyền sản lượng lớn.",
+    "lead": "WAGNER® PEA-T3 là súng phun sơn tự động dùng cho bột Tribo, lắp đặt trong buồng sơn để phun tự động. Nhờ kênh dẫn bột và khí chuyên biệt bên trong súng, bột Tribo được tích điện hiệu quả, mang lại hiệu suất chuyển giao cao và ổn định.",
+    "features": [
+      ["🎯", "Kết quả phủ xuất sắc", "Kênh dẫn bột và khí chuyên biệt giúp tích điện tốt bột Tribo, đạt hiệu suất ứng dụng cao."],
+      ["🔧", "Linh hoạt cho nhiều ứng dụng", "Khí Tribo có thể điều chỉnh để cân chỉnh điện tích, tùy biến riêng cho từng ứng dụng và loại bột sử dụng."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "PEA-T3",
+      "Vật liệu sử dụng được": "Sơn bột Tribo hữu cơ (Organic Tribo powder coatings)",
+      "Cấp độ bảo vệ": "IP 54",
+      "Cực tính": "Dương (Positive)",
+      "Lưu lượng bột tối đa/súng": "300 g/phút"
+    },
+    "applications": [
+      "Dây chuyền sơn tự động trong buồng sơn kín",
+      "Phun các loại bột Tribo cho sản lượng lớn",
+      "Xưởng cần tích điện ổn định cho bột khó tích điện Corona"
+    ],
+    "why": "PEA-T3 phù hợp cho các dây chuyền tự động cần phun ổn định loại bột Tribo với hiệu suất chuyển giao cao, đồng thời có thể tinh chỉnh khí Tribo riêng cho từng loại bột và ứng dụng cụ thể.",
+    "metaDescription": "WAGNER® PEA-T3 Tribo Automatic Guns - súng phun sơn tự động công nghệ Tribo cho dây chuyền sản lượng lớn. Chính hãng, bảo hành, giao hàng toàn quốc.",
+    "metaKeywords": "PEA-T3, WAGNER PEA-T3, súng phun sơn tự động Tribo PEA-T3"
   },
   {
     "slug": "sprint-2-expert-t",
@@ -74,7 +211,29 @@
     "subCat": "table-set",
     "subCatLabel": "Bộ sơn bàn",
     "img": "https://cdn.wagner-group.com/fileadmin/_processed_/a/1/csm_WAGNER_Sprint2Expert-T_3l-table-set_WA24013INTPIC01_102579_943c9b9b8b.jpg",
-    "shortDesc": "Bộ bàn sơn 3 lít dòng Expert, tích hợp sẵn phễu chứa, phù hợp thử nghiệm và sản xuất nhỏ."
+    "shortDesc": "Bộ bàn sơn 3 lít dòng Expert, tích hợp sẵn phễu chứa, phù hợp thử nghiệm và sản xuất nhỏ.",
+    "lead": "WAGNER® Sprint 2 Expert T là bộ bàn sơn tĩnh điện bột thủ công, ngoài bộ điều khiển và súng phun sơn còn tích hợp sẵn bàn rung với phễu chứa 3 lít, injector Hi-Coat và ống dẫn 9mm. Là thành viên dòng Expert cao cấp của Sprint 2, sản phẩm mang đến các tính năng hỗ trợ chuyên sâu cho những yêu cầu đặc biệt.",
+    "features": [
+      ["⚙️", "Hiệu suất phủ vượt trội", "Súng phun sơn thủ công PEM-X1 kết hợp bộ điều khiển WACON Sprint 2 Expert trực quan, chuẩn bị bột tối ưu, kết quả ổn định và lặp lại."],
+      ["🔬", "Đa dạng phạm vi ứng dụng", "Phù hợp môi trường phòng thí nghiệm hay chi tiết nhỏ yêu cầu bề mặt cực mịn; cũng dùng được cho kiểm tra vết nứt hay hoàn thiện mâm xe."],
+      ["⚡", "Phản hồi nhanh, đáng tin cậy", "Màn hình độ phân giải cao và bộ xử lý tốc độ cao cho thao tác chính xác, không độ trễ, kể cả khi đeo găng tay đạt chuẩn ESD."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "Sprint 2 Expert T",
+      "Dung tích phễu bột": "3 lít",
+      "Injector": "Hi-Coat",
+      "Đường kính ống dẫn bột": "9 mm",
+      "Bộ điều khiển": "WACON Sprint 2 Expert",
+      "Súng phun sơn": "PEM-X1"
+    },
+    "applications": [
+      "Phòng thí nghiệm, khu vực R&D cần độ mịn bề mặt rất cao",
+      "Sản xuất nhỏ, chi tiết kích thước hạn chế",
+      "Kiểm tra vết nứt (crack testing) hoặc hoàn thiện mâm xe"
+    ],
+    "why": "Sprint 2 Expert T phù hợp cho môi trường thử nghiệm, sản xuất nhỏ hoặc các ứng dụng đòi hỏi độ chính xác cao — nhờ màn hình phản hồi nhanh và các tính năng hỗ trợ chuyên sâu của dòng Expert.",
+    "metaDescription": "WAGNER® Sprint 2 Expert T - bộ bàn sơn tĩnh điện bột 3 lít dòng Expert, phù hợp thử nghiệm và sản xuất nhỏ. Chính hãng, bảo hành, giao hàng toàn quốc.",
+    "metaKeywords": "Sprint 2 Expert T, WAGNER Sprint 2 Expert T, bộ bàn sơn tĩnh điện bột Expert T"
   },
   {
     "slug": "sprint-2-expert-cup-gun-case-set",
@@ -85,7 +244,28 @@
     "subCat": "cup-gun",
     "subCatLabel": "Súng phun sơn cốc",
     "img": "https://cdn.wagner-group.com/fileadmin/_processed_/a/7/csm_WAGNER_Sprint2Expert-CG_dynL_ID0966_WA24013USPIC01_101430_2eb50aec6a.jpg",
-    "shortDesc": "Bộ súng phun sơn dạng cốc, kiểu vali di động, tiện mang theo bảo trì hoặc sửa lỗi bề mặt tại chỗ."
+    "shortDesc": "Bộ súng phun sơn dạng cốc, kiểu vali di động, tiện mang theo bảo trì hoặc sửa lỗi bề mặt tại chỗ.",
+    "lead": "WAGNER® Sprint 2 Expert CG là bộ súng cốc dạng vali di động, phù hợp cho chi tiết đơn lẻ, số lượng nhỏ hoặc mục đích thử nghiệm/R&D. Nhờ nguyên lý cắm-chạy (plug-in), bộ set có thể lắp đặt nhanh chóng ở bất kỳ đâu và vận hành trực tiếp ngay từ vali.",
+    "features": [
+      ["🎨", "Đổi màu siêu nhanh", "Cơ chế thay cốc đơn giản giúp đổi màu cực nhanh, kết hợp cùng bộ điều khiển WACON Sprint 2 Expert với DSO, van khí AFC và tính năng double-click cho kết quả chất lượng cao."],
+      ["🧰", "Dễ sử dụng", "Lắp ráp và vận hành theo nguyên lý cắm-chạy; vali đóng vai trò như một giá đỡ, có thể gắn thêm bảng treo tường tùy chọn."],
+      ["🚚", "Tiện lợi di chuyển", "Bộ súng cốc gọn nhẹ, lý tưởng cho sử dụng di động tại nhiều địa điểm: khu thử nghiệm, phòng lab hoặc trình diễn sản phẩm."],
+      ["⚡", "Phản hồi nhanh, đáng tin cậy", "Màn hình độ phân giải cao và bộ xử lý tốc độ cao cho thao tác chính xác, không độ trễ, kể cả khi đeo găng tay đạt chuẩn ESD."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "Sprint 2 Expert CG",
+      "Kiểu lắp đặt": "Vali di động (nguyên lý cắm-chạy)",
+      "Bộ điều khiển": "WACON Sprint 2 Expert",
+      "Công nghệ điều khiển": "DSO, double-click, van khí AFC"
+    },
+    "applications": [
+      "Bảo trì, sửa lỗi bề mặt sơn tại chỗ",
+      "Thử nghiệm, trình diễn sản phẩm di động",
+      "Sản xuất số lượng nhỏ, chi tiết đơn lẻ"
+    ],
+    "why": "Sprint 2 Expert CG là lựa chọn lý tưởng khi bạn cần một bộ sơn tĩnh điện gọn nhẹ, mang đi được, sẵn sàng sử dụng ngay mà vẫn giữ được chất lượng phủ cao nhờ công nghệ điều khiển của dòng Expert.",
+    "metaDescription": "WAGNER® Sprint 2 Expert CG - bộ súng phun sơn cốc dạng vali di động, đổi màu siêu nhanh. Hàng chính hãng, bảo hành, giao hàng toàn quốc từ Nhất Quán.",
+    "metaKeywords": "Sprint 2 Expert CG, WAGNER Sprint 2 Expert CG, súng phun sơn cốc vali di động"
   },
   {
     "slug": "gm-4100ac",
@@ -137,7 +317,34 @@
     "subCat": "manual-gun",
     "subCatLabel": "Súng phun sơn cầm tay",
     "img": "https://cdn.wagner-group.com/fileadmin/_processed_/5/f/csm_PIC_EQU_GM4700AC-250bar-redAC_31058_7dd87089d4.jpg",
-    "shortDesc": "Phiên bản nâng cấp lưu lượng lớn hơn, phù hợp phun các bề mặt kim loại và gỗ diện tích rộng."
+    "shortDesc": "Phiên bản nâng cấp lưu lượng lớn hơn, phù hợp phun các bề mặt kim loại và gỗ diện tích rộng.",
+    "lead": "WAGNER® GM 4700AC là súng phun sơn AirCoat cầm tay, thiết kế công thái học dành cho bàn tay lớn hơn so với GM 4100AC. Súng có dải béc phun và air cap rộng, xử lý được cả vật liệu độ nhớt thấp lẫn rất cao, phù hợp các bề mặt diện tích lớn.",
+    "features": [
+      ["💨", "Tán sương tối ưu", "Hệ thống dẫn khí WAGNER cho vệt phun mịn, đều màu ở mọi loại vật liệu; áp lực vật liệu giảm giúp vệt phun mềm mại."],
+      ["🛡️", "Độ bền cao", "Thân súng phun sơn rèn nguyên khối, chịu được điều kiện sản xuất khắc nghiệt."],
+      ["🔧", "Ứng dụng linh hoạt", "Chỉ cần thay air cap để chuyển đổi giữa sơn gốc nước và gốc dung môi."],
+      ["✋", "Thiết kế công thái học", "Lực bóp cò và lực giữ súng thấp, phù hợp bàn tay lớn, làm việc không mỏi."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "GM 4700AC",
+      "Kỹ thuật phun": "AirCoat",
+      "Vật liệu sử dụng được": "Sơn gốc nước (Water-borne)",
+      "Chất liệu tiếp xúc vật liệu": "Inox, Carbide, PA (polyamide), POM (polyacetal), PTFE",
+      "Trọng lượng": "597 g",
+      "Đầu nối khí nén": "M G 1/4\"",
+      "Áp suất vật liệu tối đa": "250 bar",
+      "Mức ồn tối đa": "82 dB(A)",
+      "Cỡ béc phun (Nozzle size)": "0.007 – 0.023\"",
+      "Nhiệt độ hoạt động": "5 – 40 °C"
+    },
+    "applications": [
+      "Sơn phủ bề mặt kim loại diện tích rộng",
+      "Sơn phủ bề mặt nhựa và gỗ nội thất khổ lớn",
+      "Xưởng cần súng cỡ lớn phù hợp tay to, thao tác lâu dài"
+    ],
+    "why": "GM 4700AC phù hợp khi bạn cần một khẩu súng AirCoat cỡ lớn hơn GM 4100AC, xử lý tốt các bề mặt diện tích rộng mà vẫn giữ được độ mịn của vệt phun và sự thoải mái khi cầm nắm lâu.",
+    "metaDescription": "WAGNER® GM 4700AC - súng phun sơn AirCoat cầm tay cỡ lớn, phù hợp bề mặt kim loại và gỗ diện tích rộng. Hàng chính hãng, bảo hành, giao hàng toàn quốc.",
+    "metaKeywords": "GM 4700AC, WAGNER GM 4700AC, súng phun sơn AirCoat GM 4700AC"
   },
   {
     "slug": "topfinish-robotbell2-bell2s",
@@ -148,7 +355,32 @@
     "subCat": "robot-bell",
     "subCatLabel": "Robot phun Bell",
     "img": "https://cdn.wagner-group.com/fileadmin/_processed_/a/0/csm__106219_635f151dc6.jpg",
-    "shortDesc": "Đầu phun bell tốc độ cao gắn robot, tạo lớp phủ tĩnh điện chất lượng cao cho ngành ô tô."
+    "shortDesc": "Đầu phun bell tốc độ cao gắn robot, tạo lớp phủ tĩnh điện chất lượng cao cho ngành ô tô.",
+    "lead": "WAGNER® TOPFINISH RobotBell 2 / Bell 2S là đầu phun bell tốc độ cao, tích điện nội (internal charging), phù hợp làm thiết bị đa năng cho cả sơn gốc nước lẫn gốc dung môi. Đầu phun cho phép mức độ tự động hóa cao và chất lượng bề mặt vượt trội với hiệu suất chuyển giao rất cao, có thể phủ cả chi tiết nhỏ lẫn bề mặt lớn.",
+    "features": [
+      ["🎯", "Tán sương tối ưu", "Thiết kế mới của vòng lệch khí cho luồng khí phân bố đồng nhất, vệt phun đều và bề mặt chất lượng cao, đồng thời tăng hiệu suất ứng dụng."],
+      ["🛡️", "Chứng nhận ATEX Zone 1", "Cascade tích hợp công suất 8W đạt chuẩn ATEX Zone 1, đủ dùng cho sơn dung môi và sơn nước với buồng pha sơn nhỏ (tới khoảng 60 lít)."],
+      ["🔧", "Dễ bảo trì", "Hệ thống thay ống thông minh giúp lắp đặt và bảo trì nhanh chóng; béc phun, van, bát bell dễ thay bằng dụng cụ tiêu chuẩn."],
+      ["💪", "Bền bỉ, tuổi thọ cao", "Công nghệ turbine bền bỉ, van kim tuổi thọ cao, toàn bộ chi tiết tiếp xúc vật liệu bằng inox, có thể xử lý cả vật liệu độ nhớt cao và sơn bảo vệ."],
+      ["🧩", "Thiết kế module", "Có thể tùy chỉnh chỉ lắp các thành phần thực sự cần thiết; dễ dàng chuyển đổi cấu hình hoặc mở rộng sau này."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "RobotBell 2 / Bell 2S",
+      "Khu vực ứng dụng": "Sơn kim loại, nhựa, chống ăn mòn, sơn gỗ, sơn mâm xe, nội & ngoại thất",
+      "Kỹ thuật phun": "Airspray - Conventional, phun ly tâm tốc độ cao (Rotation atomization)",
+      "Kích thước": "413 x 110 x 319 mm",
+      "Trọng lượng": "5.3 kg",
+      "Áp suất vật liệu tối đa": "8 bar",
+      "Lưu lượng thể tích tự do": "0.8 cm³/phút"
+    },
+    "applications": [
+      "Dây chuyền sơn ô tô tự động hóa bằng robot",
+      "Sơn phủ chi tiết nhỏ lẫn bề mặt lớn cùng một thiết bị",
+      "Môi trường yêu cầu chứng nhận ATEX Zone 1"
+    ],
+    "why": "RobotBell 2 / Bell 2S phù hợp cho các nhà máy ô tô hoặc dây chuyền robot cần đầu phun bell đa năng, đạt chuẩn an toàn ATEX, vừa xử lý được vật liệu độ nhớt cao vừa cho chất lượng bề mặt vượt trội.",
+    "metaDescription": "WAGNER® TOPFINISH RobotBell 2 / Bell 2S - đầu phun bell tốc độ cao gắn robot, đạt chuẩn ATEX Zone 1. Hàng chính hãng, bảo hành, giao hàng toàn quốc.",
+    "metaKeywords": "RobotBell 2, Bell 2S, WAGNER TOPFINISH RobotBell 2, đầu phun bell robot"
   },
   {
     "slug": "topfinish-gm-1030g",
@@ -159,7 +391,35 @@
     "subCat": "topfinish",
     "subCatLabel": "Hệ TOPFINISH",
     "img": "https://cdn.wagner-group.com/fileadmin/_processed_/1/d/csm_PIC_EQU_GM1030G_left_002_73810_9667a38c41.jpg",
-    "shortDesc": "Súng phun sơn tĩnh điện chuyên dụng cho sơn gốc dung môi, hiệu suất bám dính cao trên nhiều chất liệu."
+    "shortDesc": "Súng phun sơn tĩnh điện chuyên dụng cho sơn gốc dung môi, hiệu suất bám dính cao trên nhiều chất liệu.",
+    "lead": "WAGNER® TOPFINISH GM 1030G là súng phun sơn thủ công dạng cốc trọng lực (gravity cup), cho khả năng tán sương xuất sắc, đặc biệt hiệu quả trên các bề mặt diện tích nhỏ. Súng linh hoạt, phù hợp cả công việc sơn dặm (touch-up) trong ngành gỗ, kim loại và nhựa.",
+    "features": [
+      ["🎯", "Ứng dụng linh hoạt", "Lý tưởng cho sơn bề mặt nhỏ và sơn dặm trong ngành gỗ, kim loại, nhựa; toàn bộ chi tiết tiếp vật liệu bằng inox nên dùng được cho nhiều loại vật liệu."],
+      ["⚡", "Hiệu suất cao", "Hiệu suất chuyển giao lên tới 88%. Chất lượng tán sương tốt, ít mù sơn nhờ đường dẫn khí tối ưu và béc phun khí 12 lỗ."],
+      ["🎛️", "Phun ổn định", "Điều chỉnh lưu lượng vật liệu chính xác nhờ vít điều chỉnh hành trình kim cố định được; đường dẫn khí và vật liệu lớn cho tốc độ làm việc nhanh."],
+      ["🔧", "Dễ bảo trì", "Béc phun 2 mảnh cho phép chỉ cần thay đầu béc thay vì cả bộ; gioăng kim và phớt polyethylene chịu dung môi bền lâu."],
+      ["✋", "Dễ sử dụng", "Định vị air cap dễ dàng không cần nới lỏng vòng vặn; núm xoay điều chỉnh độ rộng tia phun từ dẹt sang tròn; thiết kế công thái học giúp làm việc không mỏi."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "GM 1030G",
+      "Khu vực ứng dụng": "Sơn kim loại, nhựa, gỗ, dán keo (Adhesive bonding)",
+      "Kỹ thuật phun": "Airspray - Conventional, HVLP, HVLP-Plus, phun thủ công",
+      "Vật liệu sử dụng được": "Sơn gốc nước, sơn gốc dung môi",
+      "Chất liệu tiếp xúc vật liệu": "Inox",
+      "Kích thước": "130 x 180 x 50 mm",
+      "Trọng lượng": "419 g",
+      "Đầu nối khí nén": "M G 1/4\"",
+      "Mức ồn tối đa": "84.1 dB(A)",
+      "Cỡ béc phun (Nozzle size)": "1-2.2 mm"
+    },
+    "applications": [
+      "Sơn dặm (touch-up) và sửa lỗi bề mặt",
+      "Chi tiết diện tích nhỏ trong ngành gỗ, kim loại, nhựa",
+      "Xưởng cần chuyển đổi linh hoạt giữa sơn gốc nước và gốc dung môi"
+    ],
+    "why": "GM 1030G phù hợp cho các xưởng cần một khẩu súng cốc trọng lực linh hoạt, xử lý tốt cả sơn gốc nước lẫn dung môi, đặc biệt hiệu quả cho công việc sơn dặm và chi tiết diện tích nhỏ.",
+    "metaDescription": "WAGNER® TOPFINISH GM 1030G - súng phun sơn cốc trọng lực, hiệu suất chuyển giao tới 88%, dùng cho sơn gốc nước và dung môi. Chính hãng, bảo hành, giao hàng toàn quốc.",
+    "metaKeywords": "GM 1030G, WAGNER TOPFINISH GM 1030G, súng phun sơn cốc trọng lực GM 1030G"
   },
   {
     "slug": "topfinish-ga-1020-1030",
@@ -170,7 +430,35 @@
     "subCat": "auto-gun",
     "subCatLabel": "Súng phun sơn tự động",
     "img": "https://cdn.wagner-group.com/fileadmin/_processed_/f/5/csm_PIC_EQU_GA1030IC_left_67618_4219a40868.jpg",
-    "shortDesc": "Súng phun sơn tự động gắn cố định trên dây chuyền, phù hợp phun đồng loạt sản phẩm hàng loạt."
+    "shortDesc": "Súng phun sơn tự động gắn cố định trên dây chuyền, phù hợp phun đồng loạt sản phẩm hàng loạt.",
+    "lead": "WAGNER® TOPFINISH GA 1030 là súng phun sơn tự động đa năng, nổi bật với khả năng tán sương xuất sắc và vệt phun chất lượng cao. Thiết bị ít hao mòn, đảm bảo quy trình phun ổn định khi vận hành liên tục. Phiên bản GA 1020 dùng gioăng màng, phù hợp vật liệu UV và vật liệu mài mòn cao.",
+    "features": [
+      ["🎯", "Ứng dụng linh hoạt", "Phù hợp sơn gỗ, kim loại, nhựa cần vẻ ngoài chất lượng cao; dùng được cho vật liệu gốc nước, dung môi, UV và vật liệu mài mòn cao; có thể cấu hình riêng theo yêu cầu."],
+      ["⚡", "Kết quả phủ xuất sắc", "Tiết kiệm vật liệu nhờ hiệu suất chuyển giao lên tới 88%."],
+      ["🔧", "Dễ bảo trì", "Bộ gioăng bền được tối ưu hóa, chu kỳ bảo trì dài nhờ linh kiện bền bỉ, thay thế phụ tùng nhanh chóng."],
+      ["🛡️", "Đáng tin cậy", "Thiết bị đa năng, ít hao mòn, đảm bảo phun an toàn trong vận hành liên tục; air cap gia công chính xác và luồng khí tối ưu cho khả năng tán sương hoàn hảo."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "GA 1020/1030",
+      "Khu vực ứng dụng": "Sơn kim loại, nhựa, gỗ, sơn mâm xe",
+      "Kỹ thuật phun": "Airspray, Airspray - Conventional, HVLP, HVLP-Plus",
+      "Vật liệu sử dụng được": "Sơn gốc nước, gốc dung môi, vật liệu mài mòn, dễ biến tính, nhạy ẩm",
+      "Chất liệu tiếp xúc vật liệu": "Inox 1.4305",
+      "Kích thước": "139 x 42 x 42 mm",
+      "Trọng lượng": "650 g",
+      "Áp suất vật liệu tối đa": "8 bar",
+      "Mức ồn tối đa": "92.8 dB(A)",
+      "Nhiệt độ vật liệu": "5-80 °C",
+      "Cỡ béc phun (Nozzle size)": "0.3-3.5 mm"
+    },
+    "applications": [
+      "Dây chuyền sơn tự động gắn cố định, vận hành liên tục",
+      "Sơn phủ mâm xe, chi tiết kim loại, gỗ, nhựa hàng loạt",
+      "Vật liệu đặc thù: UV, vật liệu mài mòn cao (dùng bản GA 1020)"
+    ],
+    "why": "TOPFINISH GA 1020/1030 phù hợp cho các dây chuyền sơn tự động cần thiết bị đa năng, ít hao mòn, xử lý được nhiều loại vật liệu khác nhau kể cả UV và vật liệu mài mòn cao.",
+    "metaDescription": "WAGNER® TOPFINISH GA 1020/1030 - súng phun sơn tự động đa năng, hiệu suất chuyển giao tới 88%, ít hao mòn. Chính hãng, bảo hành, giao hàng toàn quốc.",
+    "metaKeywords": "GA 1020, GA 1030, WAGNER TOPFINISH GA 1020/1030, súng phun sơn tự động GA1030"
   },
   {
     "slug": "pilot-trend-fb",
@@ -181,7 +469,32 @@
     "subCat": "pilot",
     "subCatLabel": "Dòng Pilot",
     "img": "https://cdn.wagner-group.com/fileadmin/_processed_/e/6/csm_PIC_EQU_Pilot_Trend_FB_Gruppenbild_94863_590d5846ad.jpg",
-    "shortDesc": "Bộ điều khiển cấp liệu & áp suất cho súng phun sơn, hỗ trợ vận hành ổn định theo mẻ sản xuất."
+    "shortDesc": "Bộ điều khiển cấp liệu & áp suất cho súng phun sơn, hỗ trợ vận hành ổn định theo mẻ sản xuất.",
+    "lead": "WAGNER® Pilot Trend FB là súng phun sơn thủ công đa dụng, được trang bị công nghệ air cap WALTHER PILOT đã được kiểm chứng qua thời gian. Đây là lựa chọn tiết kiệm, chắc chắn cho những công việc sơn phổ thông, có sẵn dưới dạng cốc trọng lực hoặc kết nối bình chứa vật liệu.",
+    "features": [
+      ["💰", "Đa năng, giá tốt", "Pilot Trend đáp ứng tốt các công việc phun đa dạng, từ chi tiết nhỏ đến bề mặt lớn, với độ tin cậy ổn định."],
+      ["🛡️", "Bền bỉ trong điều kiện khắc nghiệt", "Thân nhôm mạ niken, độ nén cao đảm bảo độ bền; toàn bộ chi tiết tiếp xúc vật liệu bằng inox, chống ăn mòn."],
+      ["🔧", "Nhiều phiên bản lựa chọn", "Có bản phun thường (conventional) tiêu chuẩn và bản áp suất trung bình; đi kèm cốc trọng lực, cốc hút hoặc đấu nối trực tiếp bình/bơm áp lực."],
+      ["🎨", "Bề mặt hoàn thiện xuất sắc", "Công nghệ air cap WALTHER PILOT chính xác cao cho kết quả bề mặt vượt trội."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "Pilot Trend FB",
+      "Kỹ thuật phun": "Airspray, Airspray - Conventional, HVLP, phun thủ công",
+      "Vật liệu sử dụng được": "Sơn gốc dung môi (Solvent-borne)",
+      "Chất liệu tiếp xúc vật liệu": "Inox",
+      "Kích thước": "145 x 38 x 355 mm",
+      "Trọng lượng": "677 g",
+      "Mức ồn tối đa": "85 dB(A)",
+      "Cỡ béc phun (Nozzle size)": "0.5-2.5 mm"
+    },
+    "applications": [
+      "Công việc sơn phổ thông, đa dụng hàng ngày",
+      "Xưởng cần giải pháp phun tiết kiệm chi phí đầu tư",
+      "Sơn gốc dung môi trên nhiều loại bề mặt"
+    ],
+    "why": "Pilot Trend FB phù hợp cho các xưởng cần một khẩu súng phun sơn đa dụng, bền bỉ với chi phí đầu tư hợp lý mà vẫn đảm bảo chất lượng bề mặt nhờ công nghệ air cap WALTHER PILOT.",
+    "metaDescription": "WAGNER® Pilot Trend FB - súng phun sơn thủ công đa dụng, bền bỉ, công nghệ air cap WALTHER PILOT. Hàng chính hãng, bảo hành, giao hàng toàn quốc.",
+    "metaKeywords": "Pilot Trend FB, WAGNER Pilot Trend FB, súng phun sơn Pilot Trend"
   },
   {
     "slug": "supracoat-ga-3000sc",
@@ -192,7 +505,34 @@
     "subCat": "auto-gun",
     "subCatLabel": "Súng phun sơn tự động",
     "img": "https://cdn.wagner-group.com/fileadmin/_processed_/0/d/csm_PIC_EQU_GA3000SCIC-gold_30980_3ecc53bed9.jpg",
-    "shortDesc": "Súng phun sơn công nghệ SupraCoat, tối ưu hiệu suất chuyển giao sơn, giảm thất thoát vật liệu."
+    "shortDesc": "Súng phun sơn công nghệ SupraCoat, tối ưu hiệu suất chuyển giao sơn, giảm thất thoát vật liệu.",
+    "lead": "WAGNER® SupraCoat GA3000SC ứng dụng công nghệ HVLP thuần túy, mang lại lợi thế rõ rệt so với hệ HVLP dạng gắn thêm hay súng khí nén thông thường. Động năng thấp của hạt sơn tạo vệt phun tinh tế, ít văng sơn và nhiễu loạn, cho bề mặt hoàn thiện xuất sắc kể cả với vật liệu độ nhớt cao.",
+    "features": [
+      ["🔧", "Tính linh hoạt cao", "Thích ứng nhanh với nhiều loại vật liệu (gốc nước hoặc dung môi) chỉ bằng cách thay air cap."],
+      ["♾️", "Tuổi thọ cao", "Công nghệ màng (membrane) đảm bảo tuổi thọ dài với thời gian chuyển mạch nhanh."],
+      ["✨", "Chất lượng bề mặt vượt trội", "Công nghệ HVLP mang lại hiệu suất ứng dụng cao và kết quả phủ hoàn hảo."],
+      ["🎛️", "Đa năng", "Có bản điều khiển trong/ngoài, đế gắn tiêu chuẩn hoặc robot, cùng dải phụ kiện phong phú cho phép sử dụng linh hoạt; đầu nối vật liệu và khí đặt phía sau súng."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "GA3000SC",
+      "Khu vực ứng dụng": "Sơn kim loại, nhựa, gỗ",
+      "Kỹ thuật phun": "Airspray - HVLP",
+      "Vật liệu sử dụng được": "Sơn gốc nước, gốc dung môi, vật liệu dễ biến tính, nhạy ẩm",
+      "Chất liệu tiếp xúc vật liệu": "Inox, PTFE, Carbide, UHMW-PE",
+      "Kích thước": "132 x 50 x 82 mm",
+      "Trọng lượng": "880 g",
+      "Áp suất vật liệu tối đa": "160 bar",
+      "Mức ồn tối đa": "82 dB(A)",
+      "Nhiệt độ hoạt động": "5-40 °C"
+    },
+    "applications": [
+      "Dây chuyền sơn tự động cần hiệu suất chuyển giao cao, ít thất thoát",
+      "Vật liệu độ nhớt cao trên bề mặt kim loại, nhựa, gỗ",
+      "Hệ thống điều khiển trong/ngoài hoặc lắp trên robot"
+    ],
+    "why": "SupraCoat GA3000SC phù hợp cho các nhà máy muốn tối ưu hiệu suất sử dụng sơn nhờ công nghệ HVLP thuần túy, giảm thất thoát vật liệu mà vẫn giữ chất lượng bề mặt cao.",
+    "metaDescription": "WAGNER® SupraCoat GA3000SC - súng phun sơn tự động công nghệ HVLP thuần túy, hiệu suất chuyển giao cao, giảm thất thoát sơn. Chính hãng, bảo hành, giao hàng toàn quốc.",
+    "metaKeywords": "GA3000SC, WAGNER SupraCoat GA3000SC, súng phun sơn HVLP GA3000SC"
   },
   {
     "slug": "vector-grip",
@@ -200,9 +540,34 @@
     "name": "WAGNER® Vector Grip 4-finger",
     "category": "liquid",
     "categoryLabel": "Sơn tĩnh điện ướt",
-    "subCat": "accessory",
-    "subCatLabel": "Phụ kiện gá kẹp",
+    "subCat": "manual-gun",
+    "subCatLabel": "Súng phun sơn cầm tay",
     "img": "https://cdn.wagner-group.com/fileadmin/_processed_/1/9/csm_WAGNER_Vector-Grip_4-finger_dynL_sample-image_295x295_101055_11ca82911c.jpg",
-    "shortDesc": "Bộ gá kẹp linh hoạt 4 chấu, hỗ trợ định vị chi tiết ổn định trong dây chuyền sơn tự động."
+    "shortDesc": "Súng phun sơn airless cầm tay áp lực cao tới 270 bar, thiết kế công thái học cho thao tác không mỏi tay.",
+    "lead": "WAGNER® Vector Grip 4-finger là súng phun sơn airless cầm tay, chịu áp lực tới 270 bar, chuyên dùng cho các ứng dụng hoàn thiện bề mặt. Súng được trang bị khớp xoay và bộ lọc vật liệu tích hợp, giúp thợ sơn thao tác không mỏi tay trong suốt ca làm việc.",
+    "features": [
+      ["✋", "Thiết kế công thái học", "Khớp xoay tích hợp cùng lực bóp cò và lực giữ thấp cho phép làm việc không mỏi tay."],
+      ["🛡️", "Đáng tin cậy", "Phù hợp mọi vật liệu sơn gốc nước và gốc dung môi; có bộ lọc vật liệu tích hợp; khả năng xả rửa tốt nhờ lò xo hồi vị đặt ngoài dòng vật liệu."],
+      ["🔧", "Ứng dụng linh hoạt", "Tương thích với mọi loại bơm áp lực tới 270 bar; nhiều hệ béc phun và kích cỡ béc đáp ứng đa dạng công việc sơn phủ."]
+    ],
+    "specs": {
+      "Mã sản phẩm": "Vector Grip 4-finger",
+      "Khu vực ứng dụng": "Sơn kim loại, sơn chống ăn mòn (Protective Coating), sơn gỗ",
+      "Kỹ thuật phun": "Airless",
+      "Vật liệu sử dụng được": "Sơn gốc nước, gốc dung môi, vật liệu mài mòn",
+      "Chất liệu tiếp xúc vật liệu": "Inox, Nhôm, PTFE, Carbide, UHMW-PE, POM",
+      "Áp suất vật liệu tối đa": "270 bar",
+      "Mức ồn tối đa": "81 dB(A)",
+      "Độ pH vật liệu": "3.5-9 pH",
+      "Cỡ béc phun (Nozzle size)": "0.007-0.052\""
+    },
+    "applications": [
+      "Sơn hoàn thiện bề mặt kim loại, gỗ áp lực cao",
+      "Sơn chống ăn mòn (protective coating) công trình, kết cấu thép",
+      "Xưởng cần súng airless bền, thao tác không mỏi tay cả ca dài"
+    ],
+    "why": "Vector Grip 4-finger phù hợp cho các công việc sơn airless áp lực cao cần độ bền, khả năng xử lý đa dạng vật liệu và sự thoải mái khi thao tác liên tục trong thời gian dài.",
+    "metaDescription": "WAGNER® Vector Grip 4-finger - súng phun sơn airless cầm tay áp lực tới 270 bar, công thái học, bền bỉ. Hàng chính hãng, bảo hành, giao hàng toàn quốc.",
+    "metaKeywords": "Vector Grip, WAGNER Vector Grip 4-finger, súng phun sơn airless Vector Grip"
   }
 ]

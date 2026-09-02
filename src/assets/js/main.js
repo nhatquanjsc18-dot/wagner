@@ -71,11 +71,34 @@ function initContactForm() {
     submitBtn.disabled = true;
     submitBtn.textContent = "Đang gửi...";
 
+    // Web3Forms không giải mã đúng tên field (key) chứa dấu tiếng Việt (bị lỗi font
+    // trong email nhận được), nên gộp toàn bộ thông tin thành 1 khối văn bản có nhãn
+    // tiếng Việt rõ ràng, gửi qua field "message" (tên field bằng tiếng Anh, an toàn).
+    const val = (name) => (form.elements[name] ? form.elements[name].value.trim() : "");
+    const messageBlock = [
+      `Họ và tên: ${val("full_name")}`,
+      `Số điện thoại: ${val("phone")}`,
+      `Email: ${val("email") || "(không cung cấp)"}`,
+      `Công ty / Đơn vị: ${val("company") || "(không cung cấp)"}`,
+      `Sản phẩm quan tâm: ${val("product") || "(chưa chọn)"}`,
+      "",
+      "Nội dung cần tư vấn:",
+      val("detail") || "(không có)",
+    ].join("\n");
+
+    const payload = new FormData();
+    payload.append("access_key", form.querySelector('input[name="access_key"]').value);
+    payload.append("subject", form.querySelector('input[name="subject"]').value);
+    payload.append("from_name", form.querySelector('input[name="from_name"]').value);
+    payload.append("name", val("full_name"));
+    payload.append("email", val("email"));
+    payload.append("message", messageBlock);
+
     try {
       const res = await fetch(form.action, {
         method: "POST",
         headers: { Accept: "application/json" },
-        body: new FormData(form),
+        body: payload,
       });
       const data = await res.json();
 
