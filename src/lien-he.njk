@@ -1,0 +1,82 @@
+---
+layout: layouts/base.njk
+title: Liên hệ | WAGNER Việt Nam - Nhất Quán
+description: Liên hệ Công ty CP Công nghiệp Nhất Quán - đại lý chính hãng thiết bị sơn công nghiệp WAGNER tại Việt Nam. Hotline tư vấn kỹ thuật, báo giá, hỗ trợ sau bán hàng toàn quốc.
+keywords: liên hệ WAGNER Việt Nam, liên hệ Nhất Quán, đại lý WAGNER, báo giá thiết bị sơn công nghiệp
+---
+<div class="container">
+  <div class="breadcrumb">
+    <a href="/">Trang chủ</a> › Liên hệ
+  </div>
+</div>
+
+<section style="padding-top:8px;">
+  <div class="container">
+    <span class="tag">Đại lý chính hãng WAGNER tại Việt Nam</span>
+    <h1 style="font-size:34px;font-weight:800;margin-top:12px;">Liên hệ với {{ site.companyShort }}</h1>
+    <p class="contact-lead">Đội ngũ kỹ thuật của {{ site.companyShort }} sẵn sàng tư vấn lựa chọn thiết bị sơn tĩnh điện bột, sơn ướt WAGNER phù hợp, báo giá và hỗ trợ sau bán hàng cho khách hàng trên toàn quốc.</p>
+
+    <div class="contact-grid">
+      <div>
+        <div class="info-card">
+          <div class="info-label">Hotline tư vấn kỹ thuật</div>
+          <div class="info-main"><a href="tel:{{ site.hotline1 }}">{{ site.hotline1 }}</a></div>
+          <div class="info-sub">T2 - T6: 08:00 - 17:00 · T7: 08:00 - 16:00</div>
+        </div>
+
+        <div class="info-card">
+          <div class="info-label">Email báo giá &amp; hỗ trợ</div>
+          <div class="info-main" style="font-size:17px;"><a href="mailto:{{ site.email }}">{{ site.email }}</a></div>
+          <div class="info-sub">Phản hồi trong vòng 24 giờ làm việc</div>
+        </div>
+
+        <div class="info-card">
+          <div class="info-label">Văn phòng đại diện</div>
+          <div class="info-main" style="font-size:17px;">{{ site.address }}</div>
+          <div class="info-sub">Liên hệ trước khi đến để được hỗ trợ tốt nhất</div>
+          <a class="info-link" href="https://www.google.com/maps/search/?api=1&query={{ site.address | urlencode }}" target="_blank" rel="noopener">Mở trong Google Maps →</a>
+        </div>
+
+        <p class="dealer-note"><strong>Đại lý &amp; phân phối:</strong> {{ site.companyShort }} là nhà phân phối chính hãng WAGNER tại Việt Nam. Nếu bạn muốn trở thành đại lý hoặc cần báo giá số lượng lớn, hãy gửi thông tin qua form hoặc gọi trực tiếp hotline.</p>
+      </div>
+
+      <div class="contact-form-card">
+        <h2>Gửi yêu cầu tư vấn</h2>
+        <p>Điền thông tin bên dưới, {{ site.companyShort }} sẽ liên hệ lại để tư vấn sản phẩm và báo giá phù hợp.</p>
+        <form action="mailto:{{ site.email }}" method="post" enctype="text/plain">
+          <div class="form-group">
+            <label for="cf-name">Họ và tên</label>
+            <input type="text" id="cf-name" name="ho_ten" placeholder="Nguyễn Văn A" required>
+          </div>
+          <div class="form-group">
+            <label for="cf-phone">Số điện thoại</label>
+            <input type="tel" id="cf-phone" name="sdt" placeholder="09xx xxx xxx" required>
+          </div>
+          <div class="form-group">
+            <label for="cf-email">Email</label>
+            <input type="email" id="cf-email" name="email" placeholder="ban@congty.com">
+          </div>
+          <div class="form-group">
+            <label for="cf-company">Công ty / Đơn vị</label>
+            <input type="text" id="cf-company" name="cong_ty" placeholder="Tên công ty (nếu có)">
+          </div>
+          <div class="form-group">
+            <label for="cf-product">Sản phẩm quan tâm</label>
+            <select id="cf-product" name="san_pham">
+              <option value="">-- Chọn nhóm sản phẩm --</option>
+              <option value="Sơn tĩnh điện bột">Sơn tĩnh điện bột</option>
+              <option value="Sơn tĩnh điện ướt">Sơn tĩnh điện ướt</option>
+              <option value="Giải pháp theo ngành">Giải pháp theo ngành</option>
+              <option value="Khác / Chưa rõ">Khác / Chưa rõ</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="cf-message">Nội dung cần tư vấn</label>
+            <textarea id="cf-message" name="noi_dung" placeholder="Mô tả nhu cầu, model thiết bị hiện có, quy mô nhà xưởng..."></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary">Gửi yêu cầu →</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
