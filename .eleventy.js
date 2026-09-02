@@ -2,6 +2,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
   eleventyConfig.addPassthroughCopy({ "src/banner-hero.jpg": "banner-hero.jpg" });
   eleventyConfig.addPassthroughCopy({ "src/powder-gun.jpg": "powder-gun.jpg" });
+  eleventyConfig.addPassthroughCopy({ "src/favicon.png": "favicon.png" });
 
   eleventyConfig.addFilter("money", function (value) {
     if (!value) return "Liên hệ báo giá";
