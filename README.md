@@ -97,27 +97,31 @@ git push
 
 ## Deploy lên Hostinger
 
-Hostinger hosting thường (shared hosting) chỉ phục vụ file tĩnh — **không cần cài Node.js trên server**, vì Eleventy đã build sẵn ra HTML/CSS/JS.
+Site dùng **Hostinger Git Deployment** (hPanel tự `git pull` từ GitHub) thay vì upload FTP tay. Vì tính năng này chỉ kéo code thô — **không** tự chạy `npm run build` — nên repo có sẵn 1 GitHub Action tự build rồi đẩy kết quả sang nhánh riêng tên **`deploy`** (nhánh này chỉ chứa file HTML/CSS/JS tĩnh sẵn sàng phục vụ, không có mã nguồn `src/`).
 
-### Cách 1 — Tải tay qua File Manager / FTP (đơn giản nhất)
+### Cách hoạt động
 
-1. Chạy `npm run build` trên máy để tạo thư mục `dist/`.
-2. Đăng nhập **hPanel Hostinger** → **File Manager** (hoặc dùng FileZilla với thông tin FTP trong hPanel → Advanced → FTP Accounts).
-3. Vào thư mục `public_html` của domain, xoá/backup nội dung cũ nếu có.
-4. Upload **toàn bộ nội dung bên trong** `dist/` (không upload thư mục `dist` lồng thêm 1 cấp — các file `index.html`, `assets/`, `san-pham/`... phải nằm trực tiếp trong `public_html`).
-5. Truy cập domain để kiểm tra.
+1. Push code lên nhánh `main` → GitHub Action (`.github/workflows/deploy.yml`) tự `npm run build` rồi ghi đè toàn bộ nhánh `deploy` bằng nội dung `dist/` mới nhất.
+2. Hostinger Git Deployment theo dõi nhánh `deploy` → tự kéo về mỗi khi có commit mới.
 
-### Cách 2 — Tự động deploy khi push GitHub (GitHub Actions)
+### Thiết lập trên Hostinger (làm 1 lần)
 
-Repo đã có sẵn workflow mẫu tại `.github/workflows/deploy.yml`, dùng FTP để đẩy thư mục `dist/` lên Hostinger mỗi khi push nhánh `main`. Cần khai báo 3 secret trong **GitHub repo → Settings → Secrets and variables → Actions**:
+1. Đăng nhập **hPanel** → chọn website → **Advanced → Git**.
+2. Kết nối repository: `https://github.com/nhatquanjsc18-dot/wagner.git`
+3. **Branch to deploy**: chọn `deploy` (không phải `main`).
+4. **Directory**: trỏ vào `public_html` (thư mục gốc web của domain).
+5. Lưu — Hostinger sẽ tự đồng bộ mỗi khi nhánh `deploy` có commit mới (một số gói có nút "Deploy now" để đồng bộ thủ công lần đầu).
 
-| Secret | Giá trị lấy từ |
-|---|---|
-| `FTP_SERVER` | hPanel → Files → FTP Accounts (thường là `ftp.tenmien.com` hoặc IP server) |
-| `FTP_USERNAME` | Tài khoản FTP trong hPanel |
-| `FTP_PASSWORD` | Mật khẩu FTP trong hPanel |
+### Deploy tay khi cần (không qua GitHub Actions)
 
-Sau khi khai báo secret, mỗi lần `git push origin main`, GitHub Actions sẽ tự build và đẩy `dist/` lên `public_html` trên Hostinger.
+```bash
+npm run build
+git worktree add -B deploy ../wagner-deploy-wt HEAD
+cd ../wagner-deploy-wt && git rm -rf . && cp -r ../"Web Wagner"/dist/. .
+git add -A && git commit -m "Deploy: static build output"
+git push origin deploy
+cd ../"Web Wagner" && git worktree remove ../wagner-deploy-wt --force
+```
 
 ## SEO
 
